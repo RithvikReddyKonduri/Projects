@@ -1,0 +1,34 @@
+/* Set a black background for the entire body by default */
+body {
+    background-color: white;
+    margin: 0;
+    overflow: hidden;
+}
+
+#game-container {
+    position: relative;
+    text-align: center;
+}
+
+#startGameButton,
+#quitGameButton {
+    display: block;
+    width: 150px;
+    height: 40px;
+    margin: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#quitGameButton {
+    background-color: #e74c3c;
+}
+
+/* Hide the canvas by default */
+#gameCanvas {
+    display: none;
+}
