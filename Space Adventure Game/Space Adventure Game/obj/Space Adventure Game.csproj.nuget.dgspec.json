@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Resume\\C#\\Space Adventure Game\\Space Adventure Game\\HW 2-MonoGame\\Space Adventure Game.csproj": {}
+    "C:\\Users\\MAD\\Documents\\GitHub\\Projects\\Space Adventure Game\\Space Adventure Game\\Space Adventure Game.csproj": {}
   },
   "projects": {
-    "D:\\Resume\\C#\\Space Adventure Game\\Space Adventure Game\\HW 2-MonoGame\\Space Adventure Game.csproj": {
+    "C:\\Users\\MAD\\Documents\\GitHub\\Projects\\Space Adventure Game\\Space Adventure Game\\Space Adventure Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Resume\\C#\\Space Adventure Game\\Space Adventure Game\\HW 2-MonoGame\\Space Adventure Game.csproj",
+        "projectUniqueName": "C:\\Users\\MAD\\Documents\\GitHub\\Projects\\Space Adventure Game\\Space Adventure Game\\Space Adventure Game.csproj",
         "projectName": "Space Adventure Game",
-        "projectPath": "D:\\Resume\\C#\\Space Adventure Game\\Space Adventure Game\\HW 2-MonoGame\\Space Adventure Game.csproj",
+        "projectPath": "C:\\Users\\MAD\\Documents\\GitHub\\Projects\\Space Adventure Game\\Space Adventure Game\\Space Adventure Game.csproj",
         "packagesPath": "C:\\Users\\MAD\\.nuget\\packages\\",
-        "outputPath": "D:\\Resume\\C#\\Space Adventure Game\\Space Adventure Game\\HW 2-MonoGame\\obj\\",
+        "outputPath": "C:\\Users\\MAD\\Documents\\GitHub\\Projects\\Space Adventure Game\\Space Adventure Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

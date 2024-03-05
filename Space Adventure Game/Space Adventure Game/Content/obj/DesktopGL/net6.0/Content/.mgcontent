@@ -4,10 +4,10 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/rocketfuel.png</File>
-    <File>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/space.jpg</File>
-    <File>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/spaceship.png</File>
-    <File>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/textData.spritefont</File>
+    <File>C:/Users/MAD/Documents/GitHub/Projects/Space Adventure Game/Space Adventure Game/Content/rocketfuel.png</File>
+    <File>C:/Users/MAD/Documents/GitHub/Projects/Space Adventure Game/Space Adventure Game/Content/space.jpg</File>
+    <File>C:/Users/MAD/Documents/GitHub/Projects/Space Adventure Game/Space Adventure Game/Content/spaceship.png</File>
+    <File>C:/Users/MAD/Documents/GitHub/Projects/Space Adventure Game/Space Adventure Game/Content/textData.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

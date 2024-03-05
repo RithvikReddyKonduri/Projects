@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Space Adventure Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83958f8c3d596a8e8ed5c22687cb0c4d4c8f9fe5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9b18ee74ba9b8d8d679bde39b4b17eb8c1ffa93")]
 [assembly: System.Reflection.AssemblyProductAttribute("Space Adventure Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Space Adventure Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

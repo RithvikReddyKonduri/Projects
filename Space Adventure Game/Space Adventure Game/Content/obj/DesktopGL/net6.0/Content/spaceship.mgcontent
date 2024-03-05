@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/spaceship.png</SourceFile>
-  <SourceTime>2024-02-17T15:42:10-05:00</SourceTime>
-  <DestFile>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/bin/DesktopGL/Content/spaceship.xnb</DestFile>
-  <DestTime>2024-03-05T11:55:56.680161-05:00</DestTime>
+  <SourceFile>C:/Users/MAD/Documents/GitHub/Projects/Space Adventure Game/Space Adventure Game/Content/spaceship.png</SourceFile>
+  <SourceTime>2024-03-05T12:40:55.3655149-05:00</SourceTime>
+  <DestFile>C:/Users/MAD/Documents/GitHub/Projects/Space Adventure Game/Space Adventure Game/Content/bin/DesktopGL/Content/spaceship.xnb</DestFile>
+  <DestTime>2024-03-05T12:54:26.550435-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

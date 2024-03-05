@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Space_Adventure_Game
-build_property.ProjectDir = D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\
+build_property.ProjectDir = C:\Users\MAD\Documents\GitHub\Projects\Space Adventure Game\Space Adventure Game\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
