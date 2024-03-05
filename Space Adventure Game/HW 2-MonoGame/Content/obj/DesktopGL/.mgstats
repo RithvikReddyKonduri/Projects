@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/IGME 106/Homeworks/HW 2-MonoGame/HW 2-MonoGame/Content/rocketfuel.png","D:/IGME 106/Homeworks/HW 2-MonoGame/HW 2-MonoGame/Content/bin/DesktopGL/rocketfuel.xnb","TextureProcessor","Texture2DContent",4759,19685,0.1203963
+"D:/IGME 106/Homeworks/HW 2-MonoGame/HW 2-MonoGame/Content/space.jpg","D:/IGME 106/Homeworks/HW 2-MonoGame/HW 2-MonoGame/Content/bin/DesktopGL/space.xnb","TextureProcessor","Texture2DContent",69467,8294485,0.4152269
+"D:/IGME 106/Homeworks/HW 2-MonoGame/HW 2-MonoGame/Content/spaceship.png","D:/IGME 106/Homeworks/HW 2-MonoGame/HW 2-MonoGame/Content/bin/DesktopGL/spaceship.xnb","TextureProcessor","Texture2DContent",12884,39685,0.1681598
+"D:/IGME 106/Homeworks/HW 2-MonoGame/HW 2-MonoGame/Content/textData.spritefont","D:/IGME 106/Homeworks/HW 2-MonoGame/HW 2-MonoGame/Content/bin/DesktopGL/textData.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2060189

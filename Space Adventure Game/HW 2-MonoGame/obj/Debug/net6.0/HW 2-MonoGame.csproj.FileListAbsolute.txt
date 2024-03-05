@@ -1,0 +1,60 @@
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.csproj.AssemblyReference.cache
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.AssemblyInfoInputs.cache
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.AssemblyInfo.cs
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.csproj.CoreCompileInputs.cache
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.sourcelink.json
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.exe
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.deps.json
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.runtimeconfig.json
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.pdb
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.csproj.CopyComplete
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\refint\HW 2-MonoGame.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.pdb
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.genruntimeconfig.cache
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\obj\Debug\net6.0\ref\HW 2-MonoGame.dll
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\Content\rocketfuel.xnb
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\Content\spaceship.xnb
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\Content\textData.xnb
+D:\IGME 106\Homeworks\HW 2-MonoGame\HW 2-MonoGame\bin\Debug\net6.0\Content\space.xnb
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\Content\rocketfuel.xnb
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\Content\space.xnb
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\Content\spaceship.xnb
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\Content\textData.xnb
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.exe
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.deps.json
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.runtimeconfig.json
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.dll
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\HW 2-MonoGame.pdb
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.csproj.AssemblyReference.cache
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.AssemblyInfoInputs.cache
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.AssemblyInfo.cs
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.csproj.CoreCompileInputs.cache
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.sourcelink.json
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.csproj.CopyComplete
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.dll
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\refint\HW 2-MonoGame.dll
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.pdb
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\HW 2-MonoGame.genruntimeconfig.cache
+D:\Resume\C#\Space Adventure Game\Space Adventure Game\HW 2-MonoGame\obj\Debug\net6.0\ref\HW 2-MonoGame.dll

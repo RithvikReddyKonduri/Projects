@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/rocketfuel.png</File>
+    <File>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/space.jpg</File>
+    <File>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/spaceship.png</File>
+    <File>D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/textData.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

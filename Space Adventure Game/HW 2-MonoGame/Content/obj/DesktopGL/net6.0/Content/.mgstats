@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/rocketfuel.png","D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/bin/DesktopGL/Content/rocketfuel.xnb","TextureProcessor","Texture2DContent",4759,19685,0.201914
+"D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/space.jpg","D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/bin/DesktopGL/Content/space.xnb","TextureProcessor","Texture2DContent",69467,8294485,0.3155743
+"D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/spaceship.png","D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/bin/DesktopGL/Content/spaceship.xnb","TextureProcessor","Texture2DContent",12884,39685,0.009458
+"D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/textData.spritefont","D:/Resume/C#/Space Adventure Game/Space Adventure Game/HW 2-MonoGame/Content/bin/DesktopGL/Content/textData.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1560706
